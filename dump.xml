@@ -1,0 +1,4997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_45" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame0">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame0"/>
+      <int>37</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame0"/>
+      <int>83</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame0"/>
+      <int>38</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame0"/>
+      <int>83</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame0"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame0"/>
+      <object class="java.awt.Color" id="Color0">
+       <int>0</int>
+       <int>0</int>
+       <int>0</int>
+       <int>255</int>
+      </object>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame0"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame1">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame1"/>
+      <int>38</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame1"/>
+      <int>83</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame1"/>
+      <int>41</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame1"/>
+      <int>83</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame1"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame1"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame1"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame2">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame2"/>
+      <int>41</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame2"/>
+      <int>83</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame2"/>
+      <int>46</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame2"/>
+      <int>83</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame2"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame2"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame2"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame3">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame3"/>
+      <int>46</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame3"/>
+      <int>83</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame3"/>
+      <int>50</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame3"/>
+      <int>85</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame3"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame3"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame3"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame4">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame4"/>
+      <int>50</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame4"/>
+      <int>85</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame4"/>
+      <int>57</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame4"/>
+      <int>89</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame4"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame4"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame4"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame5">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame5"/>
+      <int>57</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame5"/>
+      <int>89</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame5"/>
+      <int>65</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame5"/>
+      <int>94</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame5"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame5"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame5"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame6">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame6"/>
+      <int>65</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame6"/>
+      <int>94</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame6"/>
+      <int>72</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame6"/>
+      <int>99</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame6"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame6"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame6"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame7">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame7"/>
+      <int>72</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame7"/>
+      <int>99</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame7"/>
+      <int>82</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame7"/>
+      <int>107</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame7"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame7"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame7"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame8">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame8"/>
+      <int>82</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame8"/>
+      <int>107</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame8"/>
+      <int>89</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame8"/>
+      <int>113</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame8"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame8"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame8"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame9">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame9"/>
+      <int>89</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame9"/>
+      <int>113</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame9"/>
+      <int>97</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame9"/>
+      <int>121</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame9"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame9"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame9"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame10">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame10"/>
+      <int>97</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame10"/>
+      <int>121</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame10"/>
+      <int>105</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame10"/>
+      <int>127</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame10"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame10"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame10"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame11">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame11"/>
+      <int>105</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame11"/>
+      <int>127</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame11"/>
+      <int>112</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame11"/>
+      <int>134</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame11"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame11"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame11"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame12">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame12"/>
+      <int>112</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame12"/>
+      <int>134</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame12"/>
+      <int>120</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame12"/>
+      <int>143</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame12"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame12"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame12"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame13">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame13"/>
+      <int>120</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame13"/>
+      <int>143</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame13"/>
+      <int>128</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame13"/>
+      <int>148</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame13"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame13"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame13"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame14">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame14"/>
+      <int>128</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame14"/>
+      <int>148</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame14"/>
+      <int>132</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame14"/>
+      <int>151</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame14"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame14"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame14"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame15">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame15"/>
+      <int>132</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame15"/>
+      <int>151</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame15"/>
+      <int>137</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame15"/>
+      <int>154</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame15"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame15"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame15"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame16">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame16"/>
+      <int>137</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame16"/>
+      <int>154</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame16"/>
+      <int>143</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame16"/>
+      <int>156</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame16"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame16"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame16"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame17">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame17"/>
+      <int>143</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame17"/>
+      <int>156</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame17"/>
+      <int>148</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame17"/>
+      <int>157</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame17"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame17"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame17"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame18">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame18"/>
+      <int>148</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame18"/>
+      <int>157</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame18"/>
+      <int>152</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame18"/>
+      <int>158</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame18"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame18"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame18"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame19">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame19"/>
+      <int>152</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame19"/>
+      <int>158</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame19"/>
+      <int>156</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame19"/>
+      <int>158</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame19"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame19"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame19"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame20">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame20"/>
+      <int>156</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame20"/>
+      <int>158</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame20"/>
+      <int>160</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame20"/>
+      <int>159</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame20"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame20"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame20"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame21">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame21"/>
+      <int>160</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame21"/>
+      <int>159</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame21"/>
+      <int>164</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame21"/>
+      <int>159</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame21"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame21"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame21"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame22">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame22"/>
+      <int>164</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame22"/>
+      <int>159</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame22"/>
+      <int>167</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame22"/>
+      <int>159</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame22"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame22"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame22"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame23">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame23"/>
+      <int>167</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame23"/>
+      <int>159</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame23"/>
+      <int>168</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame23"/>
+      <int>159</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame23"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame23"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame23"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame24">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame24"/>
+      <int>168</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame24"/>
+      <int>159</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame24"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame24"/>
+      <int>159</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame24"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame24"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame24"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame25">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame25"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame25"/>
+      <int>159</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame25"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame25"/>
+      <int>160</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame25"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame25"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame25"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame26">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame26"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame26"/>
+      <int>160</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame26"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame26"/>
+      <int>161</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame26"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame26"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame26"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame27">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame27"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame27"/>
+      <int>161</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame27"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame27"/>
+      <int>163</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame27"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame27"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame27"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame28">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame28"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame28"/>
+      <int>163</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame28"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame28"/>
+      <int>165</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame28"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame28"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame28"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame29">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame29"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame29"/>
+      <int>165</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame29"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame29"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame29"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame29"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame29"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame30">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame30"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame30"/>
+      <int>169</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame30"/>
+      <int>167</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame30"/>
+      <int>173</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame30"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame30"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame30"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame31">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame31"/>
+      <int>167</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame31"/>
+      <int>173</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame31"/>
+      <int>162</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame31"/>
+      <int>177</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame31"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame31"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame31"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame32">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame32"/>
+      <int>162</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame32"/>
+      <int>177</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame32"/>
+      <int>158</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame32"/>
+      <int>182</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame32"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame32"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame32"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame33">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame33"/>
+      <int>158</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame33"/>
+      <int>182</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame33"/>
+      <int>154</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame33"/>
+      <int>188</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame33"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame33"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame33"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame34">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame34"/>
+      <int>154</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame34"/>
+      <int>188</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame34"/>
+      <int>149</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame34"/>
+      <int>193</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame34"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame34"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame34"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame35">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame35"/>
+      <int>149</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame35"/>
+      <int>193</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame35"/>
+      <int>143</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame35"/>
+      <int>199</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame35"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame35"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame35"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame36">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame36"/>
+      <int>143</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame36"/>
+      <int>199</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame36"/>
+      <int>136</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame36"/>
+      <int>205</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame36"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame36"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame36"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame37">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame37"/>
+      <int>136</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame37"/>
+      <int>205</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame37"/>
+      <int>126</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame37"/>
+      <int>215</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame37"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame37"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame37"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame38">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame38"/>
+      <int>126</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame38"/>
+      <int>215</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame38"/>
+      <int>118</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame38"/>
+      <int>221</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame38"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame38"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame38"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame39">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame39"/>
+      <int>118</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame39"/>
+      <int>221</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame39"/>
+      <int>114</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame39"/>
+      <int>225</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame39"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame39"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame39"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame40">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame40"/>
+      <int>114</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame40"/>
+      <int>225</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame40"/>
+      <int>109</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame40"/>
+      <int>230</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame40"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame40"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame40"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame41">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame41"/>
+      <int>109</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame41"/>
+      <int>230</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame41"/>
+      <int>106</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame41"/>
+      <int>232</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame41"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame41"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame41"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame42">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame42"/>
+      <int>106</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame42"/>
+      <int>232</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame42"/>
+      <int>106</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame42"/>
+      <int>235</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame42"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame42"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame42"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame43">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame43"/>
+      <int>106</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame43"/>
+      <int>235</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame43"/>
+      <int>105</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame43"/>
+      <int>235</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame43"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame43"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame43"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame44">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame44"/>
+      <int>105</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame44"/>
+      <int>235</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame44"/>
+      <int>105</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame44"/>
+      <int>236</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame44"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame44"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame44"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame45">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame45"/>
+      <int>105</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame45"/>
+      <int>236</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame45"/>
+      <int>104</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame45"/>
+      <int>236</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame45"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame45"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame45"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame46">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame46"/>
+      <int>104</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame46"/>
+      <int>236</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame46"/>
+      <int>103</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame46"/>
+      <int>237</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame46"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame46"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame46"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame47">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame47"/>
+      <int>103</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame47"/>
+      <int>237</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame47"/>
+      <int>99</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame47"/>
+      <int>238</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame47"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame47"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame47"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame48">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame48"/>
+      <int>99</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame48"/>
+      <int>238</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame48"/>
+      <int>94</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame48"/>
+      <int>240</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame48"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame48"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame48"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame49">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame49"/>
+      <int>94</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame49"/>
+      <int>240</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame49"/>
+      <int>88</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame49"/>
+      <int>242</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame49"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame49"/>
+      <object idref="Color0"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame49"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame50">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame50"/>
+      <int>254</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame50"/>
+      <int>107</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame50"/>
+      <int>254</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame50"/>
+      <int>109</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame50"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame50"/>
+      <object class="java.awt.Color" id="Color1">
+       <int>51</int>
+       <int>51</int>
+       <int>255</int>
+       <int>255</int>
+      </object>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame50"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame51">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame51"/>
+      <int>254</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame51"/>
+      <int>109</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame51"/>
+      <int>254</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame51"/>
+      <int>114</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame51"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame51"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame51"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame52">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame52"/>
+      <int>254</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame52"/>
+      <int>114</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame52"/>
+      <int>254</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame52"/>
+      <int>124</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame52"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame52"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame52"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame53">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame53"/>
+      <int>254</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame53"/>
+      <int>124</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame53"/>
+      <int>250</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame53"/>
+      <int>140</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame53"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame53"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame53"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame54">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame54"/>
+      <int>250</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame54"/>
+      <int>140</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame54"/>
+      <int>247</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame54"/>
+      <int>153</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame54"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame54"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame54"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame55">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame55"/>
+      <int>247</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame55"/>
+      <int>153</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame55"/>
+      <int>244</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame55"/>
+      <int>167</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame55"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame55"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame55"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame56">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame56"/>
+      <int>244</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame56"/>
+      <int>167</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame56"/>
+      <int>240</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame56"/>
+      <int>180</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame56"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame56"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame56"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame57">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame57"/>
+      <int>240</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame57"/>
+      <int>180</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame57"/>
+      <int>235</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame57"/>
+      <int>190</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame57"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame57"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame57"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame58">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame58"/>
+      <int>235</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame58"/>
+      <int>190</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame58"/>
+      <int>231</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame58"/>
+      <int>198</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame58"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame58"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame58"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame59">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame59"/>
+      <int>231</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame59"/>
+      <int>198</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame59"/>
+      <int>225</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame59"/>
+      <int>204</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame59"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame59"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame59"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame60">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame60"/>
+      <int>225</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame60"/>
+      <int>204</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame60"/>
+      <int>222</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame60"/>
+      <int>209</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame60"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame60"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame60"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame61">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame61"/>
+      <int>222</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame61"/>
+      <int>209</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame61"/>
+      <int>218</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame61"/>
+      <int>214</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame61"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame61"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame61"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame62">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame62"/>
+      <int>218</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame62"/>
+      <int>214</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame62"/>
+      <int>216</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame62"/>
+      <int>217</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame62"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame62"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame62"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame63">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame63"/>
+      <int>216</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame63"/>
+      <int>217</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame63"/>
+      <int>215</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame63"/>
+      <int>219</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame63"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame63"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame63"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame64">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame64"/>
+      <int>215</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame64"/>
+      <int>219</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame64"/>
+      <int>215</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame64"/>
+      <int>220</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame64"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame64"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame64"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame65">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame65"/>
+      <int>215</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame65"/>
+      <int>220</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame65"/>
+      <int>215</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame65"/>
+      <int>221</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame65"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame65"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame65"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame66">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame66"/>
+      <int>215</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame66"/>
+      <int>221</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame66"/>
+      <int>214</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame66"/>
+      <int>221</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame66"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame66"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame66"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame67">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame67"/>
+      <int>214</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame67"/>
+      <int>221</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame67"/>
+      <int>214</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame67"/>
+      <int>223</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame67"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame67"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame67"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame68">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame68"/>
+      <int>214</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame68"/>
+      <int>223</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame68"/>
+      <int>213</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame68"/>
+      <int>225</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame68"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame68"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame68"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame69">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame69"/>
+      <int>213</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame69"/>
+      <int>225</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame69"/>
+      <int>212</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame69"/>
+      <int>226</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame69"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame69"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame69"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame70">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame70"/>
+      <int>212</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame70"/>
+      <int>226</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame70"/>
+      <int>212</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame70"/>
+      <int>226</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame70"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame70"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame70"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame71">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame71"/>
+      <int>212</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame71"/>
+      <int>226</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame71"/>
+      <int>211</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame71"/>
+      <int>227</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame71"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame71"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame71"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame72">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame72"/>
+      <int>211</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame72"/>
+      <int>227</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame72"/>
+      <int>208</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame72"/>
+      <int>230</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame72"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame72"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame72"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame73">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame73"/>
+      <int>208</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame73"/>
+      <int>230</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame73"/>
+      <int>202</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame73"/>
+      <int>236</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame73"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame73"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame73"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame74">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame74"/>
+      <int>202</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame74"/>
+      <int>236</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame74"/>
+      <int>197</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame74"/>
+      <int>242</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame74"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame74"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame74"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame75">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame75"/>
+      <int>197</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame75"/>
+      <int>242</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame75"/>
+      <int>191</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame75"/>
+      <int>250</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame75"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame75"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame75"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame76">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame76"/>
+      <int>191</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame76"/>
+      <int>250</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame76"/>
+      <int>184</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame76"/>
+      <int>260</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame76"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame76"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame76"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame77">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame77"/>
+      <int>184</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame77"/>
+      <int>260</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame77"/>
+      <int>175</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame77"/>
+      <int>268</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame77"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame77"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame77"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame78">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame78"/>
+      <int>175</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame78"/>
+      <int>268</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame78"/>
+      <int>166</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame78"/>
+      <int>281</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame78"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame78"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame78"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame79">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame79"/>
+      <int>166</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame79"/>
+      <int>281</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame79"/>
+      <int>156</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame79"/>
+      <int>291</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame79"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame79"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame79"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame80">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame80"/>
+      <int>156</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame80"/>
+      <int>291</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame80"/>
+      <int>146</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame80"/>
+      <int>305</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame80"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame80"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame80"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame81">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame81"/>
+      <int>146</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame81"/>
+      <int>305</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame81"/>
+      <int>134</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame81"/>
+      <int>317</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame81"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame81"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame81"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame82">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame82"/>
+      <int>134</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame82"/>
+      <int>317</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame82"/>
+      <int>127</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame82"/>
+      <int>325</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame82"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame82"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame82"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame83">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame83"/>
+      <int>127</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame83"/>
+      <int>325</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame83"/>
+      <int>118</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame83"/>
+      <int>336</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame83"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame83"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame83"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame84">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame84"/>
+      <int>118</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame84"/>
+      <int>336</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame84"/>
+      <int>113</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame84"/>
+      <int>341</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame84"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame84"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame84"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame85">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame85"/>
+      <int>113</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame85"/>
+      <int>341</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame85"/>
+      <int>110</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame85"/>
+      <int>346</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame85"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame85"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame85"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame86">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame86"/>
+      <int>110</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame86"/>
+      <int>346</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame86"/>
+      <int>108</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame86"/>
+      <int>348</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame86"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame86"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame86"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame87">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame87"/>
+      <int>108</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame87"/>
+      <int>348</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame87"/>
+      <int>107</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame87"/>
+      <int>349</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame87"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame87"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame87"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame88">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame88"/>
+      <int>107</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame88"/>
+      <int>349</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame88"/>
+      <int>106</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame88"/>
+      <int>350</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame88"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame88"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame88"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame89">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame89"/>
+      <int>106</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame89"/>
+      <int>350</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame89"/>
+      <int>106</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame89"/>
+      <int>351</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame89"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame89"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame89"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame90">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame90"/>
+      <int>198</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame90"/>
+      <int>42</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame90"/>
+      <int>159</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame90"/>
+      <int>224</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame90"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame90"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame90"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame91">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame91"/>
+      <int>113</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame91"/>
+      <int>241</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame91"/>
+      <int>123</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame91"/>
+      <int>150</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame91"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame91"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame91"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame92">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame92"/>
+      <int>69</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame92"/>
+      <int>243</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame92"/>
+      <int>174</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame92"/>
+      <int>116</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame92"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame92"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame92"/>
+      <int>10</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gontsov.Frame" id="Frame93">
+    <void class="gontsov.Frame" method="getField">
+     <string>x1</string>
+     <void method="set">
+      <object idref="Frame93"/>
+      <int>251</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>x2</string>
+     <void method="set">
+      <object idref="Frame93"/>
+      <int>74</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y1</string>
+     <void method="set">
+      <object idref="Frame93"/>
+      <int>260</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>y2</string>
+     <void method="set">
+      <object idref="Frame93"/>
+      <int>113</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>type</string>
+     <void method="set">
+      <object idref="Frame93"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>color</string>
+     <void method="set">
+      <object idref="Frame93"/>
+      <object idref="Color1"/>
+     </void>
+    </void>
+    <void class="gontsov.Frame" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Frame93"/>
+      <int>10</int>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

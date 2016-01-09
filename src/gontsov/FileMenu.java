@@ -1,17 +1,17 @@
 package gontsov;
 
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.beans.XMLDecoder;
 import java.beans.XMLEncoder;
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Scanner;
 import javax.swing.*;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import gontsov.utils.CsvFileReader;
+import gontsov.utils.CsvFileWriter;
 import org.ho.yaml.YamlDecoder;
 import org.ho.yaml.YamlEncoder;
 
@@ -149,131 +149,23 @@ public class FileMenu extends JMenuBar {
         }
     }
 
-    private class CsvFileWriter {
-
-        private static final String DELIMITER = ";";
-        private static final String NEW_LINE_SEPARATOR = "\n";
-
-        private static final String FILE_HEADER = "x1,x2,y1,y2,type,color,width";
-
-        public void writeCsvFile(String fileName) {
-            FileWriter fileWriter = null;
-
-            try {
-                fileWriter = new FileWriter(fileName);
-                fileWriter.append(FILE_HEADER.toString());
-                fileWriter.append(NEW_LINE_SEPARATOR);
-
-                for (Frame aFrame : conf.frame) {
-                    fileWriter.append(String.valueOf(aFrame.x1));
-                    fileWriter.append(DELIMITER);
-                    fileWriter.append(String.valueOf(aFrame.y1));
-                    fileWriter.append(DELIMITER);
-                    fileWriter.append(String.valueOf(aFrame.x2));
-                    fileWriter.append(DELIMITER);
-                    fileWriter.append(String.valueOf(aFrame.y2));
-                    fileWriter.append(DELIMITER);
-                    fileWriter.append(String.valueOf(aFrame.type));
-                    fileWriter.append(DELIMITER);
-                    fileWriter.append(String.valueOf(aFrame.color));
-                    fileWriter.append(DELIMITER);
-                    fileWriter.append(String.valueOf(aFrame.width));
-                    fileWriter.append(NEW_LINE_SEPARATOR);
-                }
-
-
-                System.out.println("CSV file was created successfully");
-
-            } catch (Exception e) {
-                System.out.println("Error in CsvFileWriter");
-                e.printStackTrace();
-            } finally {
-
-                try {
-                    fileWriter.flush();
-                    fileWriter.close();
-                } catch (IOException e) {
-                    System.out.println("Error while flushing/closing fileWriter");
-                    e.printStackTrace();
-                }
-
-            }
-        }
-    }
-
     private class ToCSVItemAction implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
-            CsvFileWriter csvFileWriter = new CsvFileWriter();
+            CsvFileWriter csvFileWriter = new CsvFileWriter(conf);
             csvFileWriter.writeCsvFile(CSVFile);
-        }
-    }
-
-    public class CsvFileReader {
-
-        private static final String DELIMITER = ";";
-
-        private final int X1 = 0;
-        private final int Y1 = 1;
-        private final int X2 = 2;
-        private final int Y2 = 3;
-        private final int TYPE = 4;
-        private final int COLOR = 5;
-        private final int WIDTH = 6;
-
-        public Color toColor(String str) {
-            Scanner sc = new Scanner(str);
-            sc.useDelimiter("\\D+");
-
-            return new Color(sc.nextInt(), sc.nextInt(), sc.nextInt());
-        }
-
-        public void readCsvFile(String fileName) {
-
-            BufferedReader fileReader = null;
-
-            try {
-                String line;
-                fileReader = new BufferedReader(new FileReader(fileName));
-                fileReader.readLine();
-
-                while ((line = fileReader.readLine()) != null) {
-                    String[] tokens = line.split(DELIMITER);
-                    if (tokens.length > 0) {
-                        conf.frame.add(new Frame(
-                                Integer.parseInt(tokens[X1]),
-                                Integer.parseInt(tokens[Y1]),
-                                Integer.parseInt(tokens[X2]),
-                                Integer.parseInt(tokens[Y2]),
-                                Integer.parseInt(tokens[TYPE]),
-                                toColor(tokens[COLOR]),
-                                Integer.parseInt(tokens[WIDTH])
-                        ));
-                    }
-                }
-            } catch (Exception e) {
-                System.out.println("Error in CsvFileReader");
-                e.printStackTrace();
-            } finally {
-                try {
-                    fileReader.close();
-                } catch (IOException e) {
-                    System.out.println("Error while closing fileReader");
-                    e.printStackTrace();
-                }
-            }
-
         }
     }
 
     private class FromCSVItemAction implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
-            CsvFileReader csvFileReader = new CsvFileReader();
+            CsvFileReader csvFileReader = new CsvFileReader(conf);
             csvFileReader.readCsvFile(CSVFile);
             workedPanel.repaint();
         }
     }
+
 
     private class ToYamlItemAction implements ActionListener {
         @Override
@@ -285,8 +177,6 @@ public class FileMenu extends JMenuBar {
             } catch (FileNotFoundException e1) {
                 e1.printStackTrace();
             }
-
-
         }
     }
 

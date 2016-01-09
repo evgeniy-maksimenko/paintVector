@@ -21,9 +21,9 @@ public class FileMenu extends JMenuBar {
     WorkedPanel workedPanel;
 
     private final String JSONFile = "dump.json";
-    private final String XMLFile = "dump.xml";
-    private final String CSVFile = "dump.csv";
-    private final String YamlFile = "dump.yaml";
+    private final String XMLFile  = "dump.xml";
+    private final String CSVFile  = "dump.csv";
+    private final String YAMLFile = "dump.yaml";
 
     public FileMenu(Config conf, WorkedPanel workedPanel) {
         this.conf = conf;
@@ -279,7 +279,7 @@ public class FileMenu extends JMenuBar {
         @Override
         public void actionPerformed(ActionEvent e) {
             try {
-                YamlEncoder enc = new YamlEncoder(new FileOutputStream(YamlFile));
+                YamlEncoder enc = new YamlEncoder(new FileOutputStream(YAMLFile));
                 enc.writeObject(conf.frame);
                 enc.close();
             } catch (FileNotFoundException e1) {
@@ -294,7 +294,7 @@ public class FileMenu extends JMenuBar {
         @Override
         public void actionPerformed(ActionEvent e) {
             try {
-                YamlDecoder dec = new YamlDecoder(new FileInputStream(YamlFile));
+                YamlDecoder dec = new YamlDecoder(new FileInputStream(YAMLFile));
                 conf.frame = (ArrayList<Frame>) dec.readObject();
                 dec.close();
             } catch (EOFException e1) {

@@ -12,15 +12,18 @@ import javax.swing.*;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import org.ho.yaml.YamlDecoder;
+import org.ho.yaml.YamlEncoder;
 
 
 public class FileMenu extends JMenuBar {
     Config conf;
     WorkedPanel workedPanel;
 
-    private String JSONFile = "dump.json";
-    private String XMLFile = "dump.xml";
-    private String CSVFile = "dump.csv";
+    private final String JSONFile = "dump.json";
+    private final String XMLFile = "dump.xml";
+    private final String CSVFile = "dump.csv";
+    private final String YamlFile = "dump.yaml";
 
     public FileMenu(Config conf, WorkedPanel workedPanel) {
         this.conf = conf;
@@ -63,6 +66,18 @@ public class FileMenu extends JMenuBar {
         JMenuItem fromCSVItem = new JMenuItem("fromCSV");
         fromCSVItem.addActionListener(new FromCSVItemAction());
         csvMenu.add(fromCSVItem);
+
+
+        JMenu yamlMenu = new JMenu("yaml");
+        menu.add(yamlMenu);
+
+        JMenuItem toYamltem = new JMenuItem("toYaml");
+        toYamltem.addActionListener(new ToYamlItemAction());
+        yamlMenu.add(toYamltem);
+
+        JMenuItem fromYamlItem = new JMenuItem("fromYaml");
+        fromYamlItem.addActionListener(new FromYamlItemAction());
+        yamlMenu.add(fromYamlItem);
 
     }
 
@@ -198,11 +213,11 @@ public class FileMenu extends JMenuBar {
 
         private static final String DELIMITER = ";";
 
-        private final int X1    = 0;
-        private final int Y1    = 1;
-        private final int X2    = 2;
-        private final int Y2    = 3;
-        private final int TYPE  = 4;
+        private final int X1 = 0;
+        private final int Y1 = 1;
+        private final int X2 = 2;
+        private final int Y2 = 3;
+        private final int TYPE = 4;
         private final int COLOR = 5;
         private final int WIDTH = 6;
 
@@ -256,6 +271,37 @@ public class FileMenu extends JMenuBar {
         public void actionPerformed(ActionEvent e) {
             CsvFileReader csvFileReader = new CsvFileReader();
             csvFileReader.readCsvFile(CSVFile);
+            workedPanel.repaint();
+        }
+    }
+
+    private class ToYamlItemAction implements ActionListener {
+        @Override
+        public void actionPerformed(ActionEvent e) {
+            try {
+                YamlEncoder enc = new YamlEncoder(new FileOutputStream(YamlFile));
+                enc.writeObject(conf.frame);
+                enc.close();
+            } catch (FileNotFoundException e1) {
+                e1.printStackTrace();
+            }
+
+
+        }
+    }
+
+    private class FromYamlItemAction implements ActionListener {
+        @Override
+        public void actionPerformed(ActionEvent e) {
+            try {
+                YamlDecoder dec = new YamlDecoder(new FileInputStream(YamlFile));
+                conf.frame = (ArrayList<Frame>) dec.readObject();
+                dec.close();
+            } catch (EOFException e1) {
+                e1.printStackTrace();
+            } catch (FileNotFoundException e1) {
+                e1.printStackTrace();
+            }
             workedPanel.repaint();
         }
     }
